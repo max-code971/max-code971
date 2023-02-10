@@ -8,14 +8,17 @@
 
 On my repositories I will publish my projects, which are very interesting! ✨
 <br>
+<hr>
 ---Follow me:
-
-⚡Twitter: https://twitter.com/max_code971
 <br>
-⚡CodePen: https://codepen.io/maksim971
+<a href="https://twitter.com/max_code971">⚡Twitter</a>
 <br>
-⚡Instagram: https://instagram.com/_llcodell_?igshid=ZDdkNTZiNTM=
+<a href="https://codepen.io/maksim971">⚡CodePen</a>
 <br>
-🔎My development site: https://web-dev-studio.netlify.app
+<a href="https://instagram.com/_llcodell_?igshid=ZDdkNTZiNTM=">⚡Instagram</a>
+<br>
+🔎My development site: <a href="https://web-dev-studio.netlify.app" target="_blank">Web Development Studio🌐</a>
 
 ---I have a lot of interesting things, subscribe! 💻👍
+
+
