@@ -17,7 +17,7 @@ On my repositories I will publish my projects, which are very interesting! ✨
 <br>
 <a href="https://instagram.com/_llcodell_?igshid=ZDdkNTZiNTM=">⚡Instagram</a>
 <br>
-🔎My development site: <a href="https://web-dev-studio.netlify.app" target="_blank">Web Development Studio🌐</a>
+🔎My development site: <a href="https://web-dev-studio.netlify.app">Web Development Studio🌐</a>
 
 ---I have a lot of interesting things, subscribe! 💻👍
 
