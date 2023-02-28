@@ -2,9 +2,16 @@
 
 -I am engaged in programming 👩‍💻
 <br>
--Web-Developer✨
+-Web Development ⚡
 <br>
--I study HTML, CSS, JavaScript, Python 🌱
+-Web Design 🚀
+<br>
+-HTML
+✨ CSS
+✨ JavaScript
+✨ Git
+✨ React, Next
+✨ Vue, Nuxt 🌱
 
 On my repositories I will publish my projects, which are very interesting! ✨
 <br>
@@ -17,7 +24,7 @@ On my repositories I will publish my projects, which are very interesting! ✨
 <br>
 <a href="https://instagram.com/_llcodell_?igshid=ZDdkNTZiNTM=">⚡Instagram</a>
 <br>
-🔎My development site: <a href="https://web-dev-studio.netlify.app">Web Development Studio🌐</a>
+🔎My development site: <a href="https://web-dev-studio.netlify.app">WebCode<em>X</em>🌐</a>
 
 ---I have a lot of interesting things, subscribe! 💻👍
 
