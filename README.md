@@ -26,7 +26,7 @@ On my repositories I will publish my projects, which are very interesting! ✨
 <br>
 <a href="https://www.youtube.com/@max_code971">⚡YouTube</a>
 <br>
-🔎My development site: <a https://snap-dev.netlify.com">SnapDev🌐</a>
+🔎My development site: <a href="https://snap-dev.netlify.com">SnapDev🌐</a>
 <hr>
 
 
