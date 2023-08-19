@@ -1,14 +1,23 @@
 ### Hello everyone and welcome to my GitHub profile! 👋
 
 - I am engaged in programming 👩‍💻
+
 <br>
+
 - Web Development ⚡
+  
 <br>
+
 - Web Design 🚀
+  
 <br>
+
 - YouTuber 🌱
+  
 <br>
+
 - HTML
+  
 ✨ CSS
 ✨ JavaScript
 ✨ Git
