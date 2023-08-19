@@ -24,9 +24,9 @@ On my repositories I will publish my projects, which are very interesting! ✨
 <br>
 <a href="https://codepen.io/maksim971">⚡CodePen</a>
 <br>
-<a href="https://instagram.com/_llcodell_?igshid=ZDdkNTZiNTM=">⚡Instagram</a>
+<a href="https://www.youtube.com/@max_code971">⚡YouTube</a>
 <br>
-🔎My development site: <a href="https://webcode-x.netlify.app">WebCode<em>X</em>🌐</a>
+🔎My development site: <a https://snap-dev.netlify.com">SnapDev🌐</a>
 <hr>
 
 
