@@ -21,11 +21,11 @@ On my repositories I will publish my projects, which are very interesting! ✨
 <hr>
 - Follow me:
   
-<a href="https://twitter.com/max_code971">⚡Twitter</a>
+<a href="https://x.com/max_codee">⚡Twitter(X)</a>
 <br>
 <a href="https://codepen.io/maksim971">⚡CodePen</a>
 <br>
-<a href="https://www.youtube.com/@max_code971">⚡YouTube</a>
+<a href="https://www.youtube.com/@snap_dev">⚡YouTube</a>
 <br>
-🔎Developer Site: <a href="https://snap-dev.netlify.com">SnapDev🌐</a>
+🔎Developer Site: <a href="https://snap-dev.netlify.app">SnapDev🌐</a>
 <hr>
