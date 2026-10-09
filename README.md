@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm a Beginner Developer!
 
-### 💻 Computer Science Student | Aspiring Developer
+### 💻 Computer Science Student | Junior developer
 
 *Learning to code, building projects, and improving every day.*
 
