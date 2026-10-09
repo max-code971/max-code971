@@ -17,7 +17,9 @@
 
 On my repositories I will publish my projects, which are very interesting! ✨
 <br>
-![IMG_20230228_104428](https://user-images.githubusercontent.com/97020506/221800611-addadaaf-ea9f-48b9-9afe-0e7b8afbb7d0.png)
+<img width="2170" height="725" alt="HTML, CSS   Python Badge Trio" src="https://github.com/user-attachments/assets/6dfebe91-5c36-4e0b-807e-e9376c170c18" />
+
+
 <hr>
 - Follow me:
   
